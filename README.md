@@ -4,9 +4,9 @@ Here are some ideas to get you started:
 
 - 👨‍🎓 I’m a fourth year student of Comuter Science and Technology at Shanghai Jiao Tong University.
 - 💻 I’m doing research as an undergraduate intern at [Thinklab](https://thinklab.sjtu.edu.cn/).
-- 👯 My research interests lie in deep learning models for combinatorial optimization problems and large language models for reasong tasks.
-- 🤔 Contact me via mike0728@sjtu.edu.cn.
-- 🤔 Learn me more from [CV](https://github.com/jp-guo/jp-guo/CV)
+- 🔍 My research interests lie in deep learning models for combinatorial optimization problems and large language models for reasong tasks.
+- 📧 Contact me via mike0728@sjtu.edu.cn.
+- 👀 Learn me more from [CV](https://github.com/jp-guo/jp-guo/CV)
 
 ## &#x1f4c8; GitHub Stats
 
