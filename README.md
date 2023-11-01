@@ -4,7 +4,7 @@
 - 💻 I’m doing research as an undergraduate intern at [Thinklab](https://thinklab.sjtu.edu.cn/).
 - 🔍 My research interests lie in deep learning models for combinatorial optimization problems and large language models for reasong tasks.
 - 📧 Contact me via mike0728@sjtu.edu.cn.
-- 👀 Learn me more from [Homepage](https://jp-guo.github.io) and [CV](https://github.com/jp-guo/jp-guo/CV.pdf)
+- 👀 Learn me more from [Homepage](https://jp-guo.github.io) and [CV](https://github.com/jp-guo/jp-guo/blob/main/CV.pdf)
 
 ## &#x1f4c8; GitHub Stats
 
